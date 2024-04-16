@@ -23,7 +23,8 @@
  ![alt text](image-3.png)
  ![alt text](image-4.png)
  ![alt text](image-5.png)
-
+ 
 ### Base Image OR Parent Image :-
-![alt text](image-6.png)
+![image](https://github.com/Nikhil562/DockerTut/assets/103209278/2238b289-1ee6-45d4-9e84-7cb52379cc07)
+
 
