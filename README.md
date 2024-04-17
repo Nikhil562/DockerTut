@@ -27,4 +27,11 @@
 ### Base Image OR Parent Image :-
 ![image](https://github.com/Nikhil562/DockerTut/assets/103209278/2238b289-1ee6-45d4-9e84-7cb52379cc07)
 
+### Pull Image and Run Container :-
+![image](https://github.com/Nikhil562/DockerTut/assets/103209278/0b3dc2e5-cf72-406f-a87d-1716e0777203)
+  - Using Command Line in CMD :-
+![image](https://github.com/Nikhil562/DockerTut/assets/103209278/810b674e-2054-43ac-8b9d-56dca7c1c88b)
+  - or Using Docker Desktop :-
+![image](https://github.com/Nikhil562/DockerTut/assets/103209278/9ee090ea-30a7-4b74-8032-431a3556132a)
+
 
